@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945922130533",
+    "project_id": "wedenesday-addams-fake-call",
+    "storage_bucket": "wedenesday-addams-fake-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945922130533:android:af827b56d7fc44dfc43c8c",
+        "android_client_info": {
+          "package_name": "com.raidev.wednesdayaddamfakecallprank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945922130533-e9cfk22oic6db1mbl7dmbedqre2kidof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxTYmqM_pjMw5Bz7rmcJb8ms61LpTh4VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945922130533-e9cfk22oic6db1mbl7dmbedqre2kidof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
